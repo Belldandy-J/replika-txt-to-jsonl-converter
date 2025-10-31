@@ -1,0 +1,3 @@
+INSERT PROMPT TEXT HERE!
+SET THE PERSPECTIVE FIRST:
+"Use "you" to refer to me and "I" to refer to yourself."
